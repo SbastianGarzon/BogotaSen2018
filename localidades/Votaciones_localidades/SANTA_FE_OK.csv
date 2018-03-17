@@ -1,4 +1,4 @@
-Localidad:SANTA_FE;REFERENCIA:http://eleccionescolombia.co/archivos/divulgacion/E26_SEN_3_16_001_003_XX_XX_X_8115_F_49.pdf
+Localidad:SANTA_FE;Votacion
 P_Liberal;3975
 P_Conservador;1454
 P_Opcion_Ciudadana;486
@@ -26,3 +26,4 @@ CASIYOUREN;8
 Voto_Blanco_Indigena;1158
 Nulos;2377
 No_Marcados;1116
+REFERENCIA:; http://eleccionescolombia.co/archivos/divulgacion/E26_SEN_3_16_001_003_XX_XX_X_8115_F_49.pdf

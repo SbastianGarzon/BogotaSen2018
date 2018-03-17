@@ -1,4 +1,4 @@
-Localidad:CANDELARIA;Referencia: http://eleccionescolombia.co/archivos/divulgacion/E26_SEN_3_16_001_017_XX_XX_X_8129_F_49.pdf
+Localidad:CANDELARIA; Votacion:
 P_Liberal;2194
 P_Conservador;667
 P_Opcion_Ciudadana;202
@@ -26,3 +26,4 @@ CASIYOUREN;0
 Voto_Blanco_Indigena;486
 Nulos;929
 No_Marcados;519
+Referencia:; http://eleccionescolombia.co/archivos/divulgacion/E26_SEN_3_16_001_017_XX_XX_X_8129_F_49.pdf

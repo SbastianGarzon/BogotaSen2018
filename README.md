@@ -6,5 +6,5 @@ En cada archivo encontrará al final el link que lo dirige al documento E26.
 
 Datos disponibles al 17 de marzo:
 
-* [localidades/Votaciones_localidades/ANTONIO_NARINO_OK.csv](Antonio Nariño/)
-* [localidades/Votaciones_localidades/CANDELARIA_OK.csv](La Candelaria/)
+* [Antonio Nariño](localidades/Votaciones_localidades/ANTONIO_NARINO_OK.csv)
+* [La Candelaria](localidades/Votaciones_localidades/CANDELARIA_OK.csv)

@@ -1,4 +1,4 @@
-# BogotaSen2018
+# Resultados elecciones Senado 2018 en la ciudad de Bogotá
 
 Experimento visualizacion de resultados senado Bogotá 2018 por localidades. 
 Los datos incluyen las 20 localidades de la ciudad y 2 Zonas especiales ( Cárceles y Corferias).

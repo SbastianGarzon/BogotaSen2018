@@ -14,6 +14,7 @@ Datos disponibles al 17 de marzo:
 * [Cárceles](localidades/Votaciones_localidades/CARCELES_OK.csv)
 * [Chapinero](localidades/Votaciones_localidades/CHAPINERO_OK.csv)
 * [Corferias](localidades/Votaciones_localidades/CORFERIAS_OK.csv)
+* [Fontibon](localidades/Votaciones_localidades/FONTIBON_OK.csv)
 * [Los Mártires](localidades/Votaciones_localidades/MARTIRES_OK.csv)
 * [Rafael Uribe Uribe](localidades/Votaciones_localidades/RAFAEL_URIBE_URIBE_OK.csv)
 * [Santa Fe](localidades/Votaciones_localidades/SANTA_FE_OK.csv)

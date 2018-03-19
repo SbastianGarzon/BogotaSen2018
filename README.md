@@ -10,10 +10,12 @@ de acceder a esta información es mediante formatos E26 escaneados. Para que pue
 Datos disponibles al 18 de marzo (23:00):
 
 * [Antonio Nariño](localidades/Votaciones_localidades/ANTONIO_NARINO_OK.csv)
+* Barrios Unidos *Sin datos*
 * [Bosa](localidades/Votaciones_localidades/BOSA_OK.csv)
 * [La Candelaria](localidades/Votaciones_localidades/CANDELARIA_OK.csv)
 * [Cárceles](localidades/Votaciones_localidades/CARCELES_OK.csv)
 * [Chapinero](localidades/Votaciones_localidades/CHAPINERO_OK.csv)
+* Ciudad Bolivar *Sin datos*
 * [Corferias](localidades/Votaciones_localidades/CORFERIAS_OK.csv)
 * [Engativa](localidades/Votaciones_localidades/ENGATIVA_OK.csv)
 * [Fontibon](localidades/Votaciones_localidades/FONTIBON_OK.csv)
@@ -22,6 +24,8 @@ Datos disponibles al 18 de marzo (23:00):
 * [Puente Aranda](localidades/Votaciones_localidades/PUENTE_ARANDA_OK.csv)
 * [Rafael Uribe Uribe](localidades/Votaciones_localidades/RAFAEL_URIBE_URIBE_OK.csv)
 * [Santa Fe](localidades/Votaciones_localidades/SANTA_FE_OK.csv)
+* San Cristobal *Sin datos*
+* Suba *Sin datos*
 * [Sumapaz](localidades/Votaciones_localidades/SUMAPAZ_OK.csv)
 * [Teusaquillo](localidades/Votaciones_localidades/TEUSAQUILLO_OK.csv)
 * [Tunjuelito](localidades/Votaciones_localidades/TUNJUELITO_OK.csv)

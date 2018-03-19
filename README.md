@@ -25,7 +25,7 @@ Datos disponibles al 18 de marzo (23:00):
 * [Rafael Uribe Uribe](localidades/Votaciones_localidades/RAFAEL_URIBE_URIBE_OK.csv)
 * [Santa Fe](localidades/Votaciones_localidades/SANTA_FE_OK.csv)
 * San Cristobal **Sin datos**
-* Suba **Sin datos**
+* [Suba](localidades/Votaciones_localidades/SUBA_OK.csv)
 * [Sumapaz](localidades/Votaciones_localidades/SUMAPAZ_OK.csv)
 * [Teusaquillo](localidades/Votaciones_localidades/TEUSAQUILLO_OK.csv)
 * [Tunjuelito](localidades/Votaciones_localidades/TUNJUELITO_OK.csv)

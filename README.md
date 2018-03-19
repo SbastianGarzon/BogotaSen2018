@@ -10,7 +10,7 @@ de acceder a esta información es mediante formatos E26 escaneados. Para que pue
 Datos disponibles al 18 de marzo (23:00):
 
 * [Antonio Nariño](localidades/Votaciones_localidades/ANTONIO_NARINO_OK.csv)
-* [BOSA](localidades/Votaciones_localidades/BOSA_OK.csv)
+* [Bosa](localidades/Votaciones_localidades/BOSA_OK.csv)
 * [La Candelaria](localidades/Votaciones_localidades/CANDELARIA_OK.csv)
 * [Cárceles](localidades/Votaciones_localidades/CARCELES_OK.csv)
 * [Chapinero](localidades/Votaciones_localidades/CHAPINERO_OK.csv)

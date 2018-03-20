@@ -7,10 +7,10 @@ Los datos son transcripciones de los formatos E26 de la Registraduría, es decir
 La registraduría no reporta en el preconteo los resultados a nivel de detalle por localidades por lo cual la única manera
 de acceder a esta información es mediante formatos E26 escaneados. Para que pueda verificar el origen de los datos en cada archivo encontrará al final el link que lo dirige al documento E26.
 
-Datos disponibles al 18 de marzo (23:00):
+Datos disponibles al 20 de marzo (15:10):
 
 * [Antonio Nariño](localidades/Votaciones_localidades/ANTONIO_NARINO_OK.csv)
-* Barrios Unidos **Sin datos**
+* [Barrios Unidos](localidades/Votaciones_localidades/BARRIOS_UNIDOS_OK.csv)
 * [Bosa](localidades/Votaciones_localidades/BOSA_OK.csv)
 * [La Candelaria](localidades/Votaciones_localidades/CANDELARIA_OK.csv)
 * [Cárceles](localidades/Votaciones_localidades/CARCELES_OK.csv)
@@ -24,7 +24,7 @@ Datos disponibles al 18 de marzo (23:00):
 * [Puente Aranda](localidades/Votaciones_localidades/PUENTE_ARANDA_OK.csv)
 * [Rafael Uribe Uribe](localidades/Votaciones_localidades/RAFAEL_URIBE_URIBE_OK.csv)
 * [Santa Fe](localidades/Votaciones_localidades/SANTA_FE_OK.csv)
-* San Cristobal **Sin datos**
+* [San Cristobal](localidades/Votaciones_localidades/SAN_CRISTOBAL_OK.csv)
 * [Suba](localidades/Votaciones_localidades/SUBA_OK.csv)
 * [Sumapaz](localidades/Votaciones_localidades/SUMAPAZ_OK.csv)
 * [Teusaquillo](localidades/Votaciones_localidades/TEUSAQUILLO_OK.csv)

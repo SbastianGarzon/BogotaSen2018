@@ -7,7 +7,7 @@ Los datos son transcripciones de los formatos E26 de la Registraduría, es decir
 La registraduría no reporta en el preconteo los resultados a nivel de detalle por localidades por lo cual la única manera
 de acceder a esta información es mediante formatos E26 escaneados. Para que pueda verificar el origen de los datos en cada archivo encontrará al final el link que lo dirige al documento E26.
 
-Datos disponibles al 20 de marzo (15:10):
+Datos disponibles al 21 de marzo (0:05 am):
 
 * [Antonio Nariño](localidades/Votaciones_localidades/ANTONIO_NARINO_OK.csv)
 * [Barrios Unidos](localidades/Votaciones_localidades/BARRIOS_UNIDOS_OK.csv)

@@ -39,7 +39,7 @@ de acceder a esta información es mediante formatos E26 escaneados. Para que pue
 * [Usaquén](localidades/Votaciones_localidades/USAQUEN_OK.csv)
 * [Usme](localidades/Votaciones_localidades/USME_OK.csv)
 
-**Los datos han sido verificados varias veces pero pueden contener errores al ser una transcripcion, si encuentra algún error por favor reportarlo (Jueves 22 Marzo 2018)**
+**Los datos han sido verificados varias veces pero pueden contener errores al ser transcripciones, si encuentra algún error por favor reportarlo (Jueves 22 Marzo 2018)**
 
 # Licencia
 

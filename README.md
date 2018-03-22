@@ -5,7 +5,7 @@ Los datos incluyen los resultados **por partido** de las 20 localidades de la ci
 
 Los datos son transcripciones de los formatos E26 de la Registraduría, es decir son los datos definitivos.
 La registraduría no reporta en el preconteo los resultados a nivel de detalle por localidades por lo cual la única manera
-de acceder a esta información es mediante formatos E26 escaneados. Para que pueda verificar el origen de los datos en cada archivo encontrará al final el link que lo dirige al documento E26.
+de acceder a esta información es mediante formatos E26 escaneados. Para que pueda verificar el origen de los datos en cada archivo (por localidades) encontrará al final el link que lo dirige al documento E26.
 
 **Consolidados**
 

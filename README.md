@@ -43,7 +43,7 @@ Datos disponibles al 21 de marzo (0:05 am):
 
 **Los datos han sido verificados varias veces pero pueden contener errores al ser una transcripcion, si encuentra algún error por favor reportarlo (Jueves 22 Marzo 2018)**
 
-# License
+# 'Licencia'
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Senado Bogota 2018</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/SbastianGarzon/BogotaSen2018" property="cc:attributionName" rel="cc:attributionURL">Sebastian Garzón</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="http://eleccionescolombia.co/public_html/index.html#/" rel="dct:source">http://eleccionescolombia.co/public_html/index.html#/</a>.
 

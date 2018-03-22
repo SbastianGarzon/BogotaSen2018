@@ -10,8 +10,8 @@ de acceder a esta información es mediante formatos E26 escaneados. Para que pue
 **Consolidados**
 
 * [Total Bogotá -Circunscripcion nacional + indigena-](Bogota/Votacion_Bogota_Unificada.csv)
-* [Bogotá Circunscripcion nacional -Circunscripcion Nacional-](Bogota/Circunscripcion_Nacional_Bogota.csv)
-* [Bogotá Circunscripcion indígena -Circunscripcion Indigena- ](Bogota/Circunscripcion_Indigena_Bogota.csv)
+* [Bogotá -Circunscripcion Nacional-](Bogota/Circunscripcion_Nacional_Bogota.csv)
+* [Bogotá -Circunscripcion Indigena- ](Bogota/Circunscripcion_Indigena_Bogota.csv)
 * [Bogotá Participación -Votantes y habilitados para votar- ](Bogota/Participacion_bogota.csv)
 
 **Por localidades**

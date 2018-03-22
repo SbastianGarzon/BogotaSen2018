@@ -9,13 +9,22 @@ de acceder a esta información es mediante formatos E26 escaneados. Para que pue
 
 Datos disponibles al 21 de marzo (0:05 am):
 
+**Consolidados**
+
+* [Total Bogota -Circunscripcion nacional + indigena-](Bogota/Votacion_Bogota_Unificada.csv)
+* [Bogota Circunscripcion nacional -Circunscripcion Nacional-] (Bogota/Circunscripcion_Nacional_Bogota.csv)
+* [Bogota Circunscripcion indigena -Circunscripcion Indigena- ](Bogota/Circunscripcion_Indigena_Bogota.csv)
+* [Bogota Participación -Votantes y habilitados para votar- ](Bogota/Participacion_bogota.csv)
+
+**Por localidades**
+
 * [Antonio Nariño](localidades/Votaciones_localidades/ANTONIO_NARINO_OK.csv)
 * [Barrios Unidos](localidades/Votaciones_localidades/BARRIOS_UNIDOS_OK.csv)
 * [Bosa](localidades/Votaciones_localidades/BOSA_OK.csv)
 * [La Candelaria](localidades/Votaciones_localidades/CANDELARIA_OK.csv)
 * [Cárceles](localidades/Votaciones_localidades/CARCELES_OK.csv)
 * [Chapinero](localidades/Votaciones_localidades/CHAPINERO_OK.csv)
-* Ciudad Bolivar **Sin datos**
+* [Ciudad Bolivar](localidades/Votaciones_localidades/CIUDAD_BOLIVAR_OK.csv)
 * [Corferias](localidades/Votaciones_localidades/CORFERIAS_OK.csv)
 * [Engativa](localidades/Votaciones_localidades/ENGATIVA_OK.csv)
 * [Fontibon](localidades/Votaciones_localidades/FONTIBON_OK.csv)
@@ -32,4 +41,10 @@ Datos disponibles al 21 de marzo (0:05 am):
 * [Usaquén](localidades/Votaciones_localidades/USAQUEN_OK.csv)
 * [Usme](localidades/Votaciones_localidades/USME_OK.csv)
 
-**EN CONSTRUCCION**
+**Los datos han sido verificados varias veces pero pueden contener errores al ser una transcripcion, si encuentra algún error por favor reportarlo (Jueves 22 Marzo 2018)**
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Senado Bogota 2018</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/SbastianGarzon/BogotaSen2018" property="cc:attributionName" rel="cc:attributionURL">Sebastian Garzón</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="http://eleccionescolombia.co/public_html/index.html#/" rel="dct:source">http://eleccionescolombia.co/public_html/index.html#/</a>.
+
+Atribución requerida, uso no comercial.

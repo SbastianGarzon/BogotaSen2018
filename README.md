@@ -7,7 +7,7 @@ Los datos son transcripciones de los formatos E26 de la Registraduría, es decir
 La registraduría no reporta en el preconteo los resultados a nivel de detalle por localidades por lo cual la única manera
 de acceder a esta información es mediante formatos E26 escaneados. Para que pueda verificar el origen de los datos en cada archivo (por localidades) encontrará al final el link que lo dirige al documento E26.
 
-**Consolidados**
+**Consolidados** (Sin confirmar hasta publicación de E26 de Bogotá)
 
 * [Total Bogotá -Circunscripcion nacional + indigena-](Bogota/Votacion_Bogota_Unificada.csv)
 * [Bogotá -Circunscripcion Nacional-](Bogota/Circunscripcion_Nacional_Bogota.csv)

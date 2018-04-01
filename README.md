@@ -5,7 +5,7 @@ Los datos incluyen los resultados **por partido** de las 20 localidades de la ci
 
 En la silla vacia hicieron un análisis muy interesante de estos datos: 
 
-['Duque y Fajardo arrancan disputándose el norte, Petro pelea el sur'](http://lasillavacia.com/silla-cachaca/duque-y-fajardo-arrancan-disputandose-el-norte-petro-pelea-en-el-sur-65293)
+['Duque y Fajardo arrancan disputándose el norte, Petro pelea el sur'](http://lasillavacia.com/silla-cachaca/duque-y-fajardo-arrancan-disputandose-el-norte-petro-pelea-en-el-sur-65293) (27 de Marzo de 2018)
 
 # Datos
 

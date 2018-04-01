@@ -5,7 +5,7 @@ Los datos incluyen los resultados **por partido** de las 20 localidades de la ci
 
 En la silla vacia hicieron un análisis muy interesante de estos datos : 
 
-['Duque y Fajardo arrancan disputándose el norte, Petro pelea el sur](http://lasillavacia.com/silla-cachaca/duque-y-fajardo-arrancan-disputandose-el-norte-petro-pelea-en-el-sur-65293)
+['Duque y Fajardo arrancan disputándose el norte, Petro pelea el sur'](http://lasillavacia.com/silla-cachaca/duque-y-fajardo-arrancan-disputandose-el-norte-petro-pelea-en-el-sur-65293)
 
 Los datos son transcripciones de los formatos E26 de la Registraduría, es decir son los datos definitivos.
 La registraduría no reporta en el preconteo los resultados a nivel de detalle por localidades por lo cual la única manera

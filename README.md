@@ -3,7 +3,7 @@
 Experimento visualizacion de resultados senado Bogotá 2018 por localidades. 
 Los datos incluyen los resultados **por partido** de las 20 localidades de la ciudad y 2 Zonas especiales (Cárceles y Corferias). Los datos son transcripciones de los formatos E26 de la Registraduría, es decir son los datos definitivos.
 
-En la silla vacia hicieron un análisis muy interesante de estos datos: 
+En la [Silla Vacia](http://lasillavacia.com/) hicieron un análisis muy interesante de estos datos: 
 
 ['Duque y Fajardo arrancan disputándose el norte, Petro pelea el sur'](http://lasillavacia.com/silla-cachaca/duque-y-fajardo-arrancan-disputandose-el-norte-petro-pelea-en-el-sur-65293) (27 de Marzo de 2018)
 

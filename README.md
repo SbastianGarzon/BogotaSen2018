@@ -1,14 +1,11 @@
 # Resultados elecciones Senado 2018 en la ciudad de Bogotá
 
 Experimento visualizacion de resultados senado Bogotá 2018 por localidades. 
-Los datos incluyen los resultados **por partido** de las 20 localidades de la ciudad y 2 Zonas especiales (Cárceles y Corferias).
+Los datos incluyen los resultados **por partido** de las 20 localidades de la ciudad y 2 Zonas especiales (Cárceles y Corferias). Los datos son transcripciones de los formatos E26 de la Registraduría, es decir son los datos definitivos.
 
-# Analisis
-
-En la silla vacia hicieron un análisis muy interesante de estos datos : 
+En la silla vacia hicieron un análisis muy interesante de estos datos: 
 
 ['Duque y Fajardo arrancan disputándose el norte, Petro pelea el sur'](http://lasillavacia.com/silla-cachaca/duque-y-fajardo-arrancan-disputandose-el-norte-petro-pelea-en-el-sur-65293)
-
 
 **Consolidados** (Sin confirmar hasta publicación de E26 de Bogotá)
 
@@ -42,11 +39,12 @@ En la silla vacia hicieron un análisis muy interesante de estos datos :
 * [Usaquén](localidades/Votaciones_localidades/USAQUEN_OK.csv)
 * [Usme](localidades/Votaciones_localidades/USME_OK.csv)
 
-Los datos son transcripciones de los formatos E26 de la Registraduría, es decir son los datos definitivos.
+
+**Aclaraciones**
+
 La registraduría no reporta en el preconteo los resultados a nivel de detalle por localidades por lo cual la única manera
 de acceder a esta información es mediante formatos E26 escaneados. Para que pueda verificar el origen de los datos en cada archivo (por localidades) encontrará al final el link que lo dirige al documento E26.
 
-**Los datos han sido verificados varias veces pero pueden contener errores al ser transcripciones, si encuentra algún error por favor reportarlo (Jueves 22 Marzo 2018)**
 
 # Licencia
 

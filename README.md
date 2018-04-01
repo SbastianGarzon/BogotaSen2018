@@ -7,6 +7,8 @@ En la silla vacia hicieron un análisis muy interesante de estos datos:
 
 ['Duque y Fajardo arrancan disputándose el norte, Petro pelea el sur'](http://lasillavacia.com/silla-cachaca/duque-y-fajardo-arrancan-disputandose-el-norte-petro-pelea-en-el-sur-65293)
 
+# Datos
+
 **Consolidados** (Sin confirmar hasta publicación de E26 de Bogotá)
 
 * [Total Bogotá -Circunscripcion nacional + indigena-](Bogota/Votacion_Bogota_Unificada.csv)
